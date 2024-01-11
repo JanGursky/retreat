@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "FromtheWoods";
+    src: url('/graphics/FromtheWoods-Regular.woff2');
+    font-weight: 300;
+    font-style: normal;
+  }
+
+h1 {
+    font-family: "FromtheWoods", serif;
+    text-align: center;
+}
+
+.benefit {
+    display: flex;
+}
